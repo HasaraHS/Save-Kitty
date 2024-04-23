@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Save Kitty</string>
+    <string name="score">Score: 0</string>
+    <string name="start">Start</string>
+</resources>
